@@ -8,7 +8,7 @@
       "price":4,
       "targeting": 
       {
-        "AgeRange": ["35-50”, "15-25"],
+        "AgeRange": ["35-50", "15-25"],
         "Gender": ["M"], 
         "Country": ["India"]
        }
@@ -16,6 +16,6 @@
   ],
   
   "profile": {
-    "name": "adsolution"
+    "name": "typicode"
   }
 }
