@@ -1,0 +1,21 @@
+{
+  "bidrequest": 
+  [
+    { "tabletID": 1, 
+      "videourl":"http:\/\/demo.reviveadservermod.com\/dice_Media.mp4", 
+      "videoid":10,
+      "videoLenghth":"15",
+      "price":4,
+      "targeting": 
+      {
+        "AgeRange": ["35-50”, "15-25"],
+        "Gender": ["M"], 
+        "Country": ["India"]
+       }
+     }
+  ],
+  
+  "profile": {
+    "name": "adsolution"
+  }
+}
